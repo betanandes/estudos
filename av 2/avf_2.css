@@ -134,6 +134,12 @@ select {
     color: #fff;
     cursor: pointer;
 }
+
+.butao:hover {
+    background-color: #6097acab;
+    color: #fff;
+}
+
 .copyright {
     color: #ccc;
 }
