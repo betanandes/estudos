@@ -1,2 +1,2 @@
 # Hello, World!
-Neste repositório venho compartilhando tudo o que estudo, fique à vontade para dar uma olhada e usar!
+Neste repositório venho compartilhar tudo o que estudo, tanto na faculdade quanto no dia a dia. Fique à vontade para dar uma olhada em meus projetos!
